@@ -1,5 +1,5 @@
 {
-  "name": "webjeyros/googleWebmaster",
+  "name": "webjeyros/google-webmaster",
   "description": "Simple wrapper for google Webmasters and SiteVerification api",
   "license": "MIT",
   "keywords": ["google","webmaster","siteverification","api"],
