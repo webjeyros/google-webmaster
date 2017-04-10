@@ -1,6 +1,10 @@
 # googleWebmaster
 Simple wrapper for google Webmasters and SiteVerification API
 
+## Instalation
+   ```
+   composer require webjeyros/google-webmaster
+   ```
 ## Example usage:
 
 ```php
