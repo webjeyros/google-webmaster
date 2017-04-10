@@ -15,6 +15,6 @@
     }
   },
   "require": {
-    "google/apiclient": "2.x-dev"
+    "google/apiclient": "^2.0"
   }
 }
