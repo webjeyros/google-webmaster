@@ -1,0 +1,20 @@
+{
+  "name": "webjeyros/googleWebmaster",
+  "description": "Simple wrapper for google Webmasters and SiteVerification api",
+  "license": "MIT",
+  "keywords": ["google","webmaster","siteverification","api"],
+  "authors": [
+    {
+      "name": "webjeyros",
+      "email": "webjeyros@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "webjeyros\\siteApi\\": "src/"
+    }
+  },
+  "require": {
+    "google/apiclient": "2.x-dev"
+  }
+}
